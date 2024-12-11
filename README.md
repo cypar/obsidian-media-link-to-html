@@ -68,7 +68,7 @@ The plugin will automatically convert your media link into the appropriate HTML 
 
 ## Support
 
-If you encounter any issues or have suggestions for improvements, please visit the [GitHub repository](link-to-your-repo) and create an issue.
+If you encounter any issues or have suggestions for improvements, please visit the [GitHub repository](https://github.com/cypar/obsidian-media-link-to-html) and create an issue.
 
 ## License
 
