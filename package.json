@@ -4,7 +4,7 @@
   "description": "An Obsidian plugin that converts Obsidian media links to HTML elements.",
   "main": "dist/main.js",
   "scripts": {
-    "build": "tsc"
+    "build": "rm -rf dist && tsc && cp manifest.json dist/"
   },
   "author": "C.Y. Park",
   "license": "MIT",
