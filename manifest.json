@@ -1,7 +1,7 @@
 {
   "id": "obsidian-media-link-to-html",
   "name": "Media Link to HTML",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "minAppVersion": "0.12.0",
   "author": "Your Name",
   "description": "An Obsidian plugin that converts Obsidian media links to HTML elements.",
