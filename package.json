@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-media-link-to-html",
+  "version": "1.0.0",
+  "description": "An Obsidian plugin that converts Obsidian media links to HTML elements.",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "C.Y. Park",
+  "license": "MIT",
+  "devDependencies": {
+    "obsidian": "^1.7.2",
+    "typescript": "^5.7.2"
+  }
+}
