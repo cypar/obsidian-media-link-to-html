@@ -1,4 +1,4 @@
-# Obsidian Media Link to HTML
+# Media Link to HTML
 
 This plugin enhances your media embedding workflow in Obsidian by automatically converting media links into proper HTML elements with controls.
 

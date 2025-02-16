@@ -3,7 +3,7 @@
   "name": "Media Link to HTML",
   "version": "0.1.0",
   "minAppVersion": "0.12.0",
-  "author": "Chan Young Park",
+  "author": "C.Y. Park",
   "description": "Converts media links to HTML elements.",
   "authorUrl": "https://chanyoungpark.com",
   "isDesktopOnly": false
